@@ -5,18 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:DSA",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.50496122305095,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.474303313666555,
+  "repelStrength": 9.48606627333111,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.3731743746394758,
+  "linkDistance": 142,
+  "scale": 0.9573679202728266,
   "close": true
 }

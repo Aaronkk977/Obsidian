@@ -1,3 +1,4 @@
+#dsa
 *more terminology or math can see [[Graph Theorem]]*
 
 <u,v> = u→v = *v is adjacent to u*

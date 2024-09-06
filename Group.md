@@ -1,3 +1,4 @@
+#linear_algebra 
 A group is a mathematical structure consisting of a set $G$ and a binary operation $\circ$ that combines any two elements of the set to form another element within the same set. 
 
 ### Properties must be met to qualify as a group:

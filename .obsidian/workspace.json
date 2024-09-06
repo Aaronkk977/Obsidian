@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d4ee026d1f13dec9",
+        "id": "f3286b90ead47b05",
         "type": "tabs",
         "children": [
           {
-            "id": "687520ace9e8c180",
+            "id": "f07d48e2d58f6f7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "西西 感冒 - 以丈夫角度書寫.md",
+                "file": "Field.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16ecd5c37d1fb014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Space.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2265c09d9b0d739b",
@@ -81,12 +93,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "cbeda9b1640ad810",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vector Space.md"
+              }
+            }
+          },
+          {
             "id": "c76a2bcbf8492497",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "西西 感冒 - 以丈夫角度書寫.md",
+                "file": "Vector Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "西西 感冒 - 以丈夫角度書寫.md",
+                "file": "Vector Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,16 +143,6 @@
             }
           },
           {
-            "id": "cbeda9b1640ad810",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "西西 感冒 - 以丈夫角度書寫.md"
-              }
-            }
-          },
-          {
             "id": "bb7268f9fb95606b",
             "type": "leaf",
             "state": {
@@ -138,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,60 +161,61 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "random-note:Open random note": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "687520ace9e8c180",
+  "active": "16ecd5c37d1fb014",
   "lastOpenFiles": [
-    "西西 感冒 - 以丈夫角度書寫.md",
-    "Discrete Math/Graph Theorem.md",
-    "Tree Theorem.md",
-    "Rings.md",
-    "Modular Arithmetic.md",
     "Group.md",
+    "Vector Space.md",
+    "Field.md",
+    "Untitled.md",
+    "Linear Algebra/Linear Algebra - Chapter V.md",
+    "Linear Algebra/Linear Algebra - Chapter III.md",
+    "Linear Algebra/Linear Algebra - Chapter IV.md",
+    "Linear Algebra/Linear Algebra - Chapter I.md",
+    "Linear Algebra/Linear Algebra - Chapter II.md",
+    "台大選課.md",
+    "Linear Algebra",
+    "2024-04-10.md",
+    "青春期的心態成長歷程.md",
+    "循環式嘆息 (cyclic sighing).md",
+    "2024-04-12.md",
+    "How to improve English Listening and Speaking.md",
+    "重要的事再忙也要做.md",
+    "西西 感冒 - 以丈夫角度書寫.md",
+    "獲得創作的靈感來源.md",
+    "(透過選擇環境讓自己變成想成為的樣子).md",
+    "DSA/Disjoint Set.md",
     "Discrete Math Final Exam.md",
+    "2024-07-22.md",
+    "Untitled.canvas",
+    "感受不到生活的感覺.md",
+    "Man's searching for meaning.md",
+    "Pasted image 20240603183629.png",
+    "國寫 情意題 自設題材簡報.md",
+    "國寫 情意題 自設題材影片.md",
+    "Pasted image 20240621143856.png",
+    "DSA/outline_graph_of_b-tree_deletion.png",
+    "DSA/basic_b-tree_characteristics.png",
+    "小說/8西西_感冒.pdf",
     "Pasted image 20240606132138.png",
     "Pasted image 20240605211528.png",
-    "Graph.md",
-    "Linear Sort.md",
-    "DSA/Hashing.md",
-    "RB tree.md",
-    "Disjoint Set.md",
     "Pasted image 20240603224720.png",
     "Pasted image 20240603223239.png",
-    "DSA/B-tree.md",
     "Pasted image 20240603192044.png",
     "Pasted image 20240603184656.png",
-    "Pasted image 20240603184643.png",
-    "Pasted image 20240603183629.png",
-    "Pasted image 20240603183557.png",
-    "Pasted image 20240603183331.png",
-    "小說/(厭倦的友誼).md",
     "Discrete Math/20240509.pdf",
     "Discrete Math/20240425.pdf",
     "Discrete Math/20240523.pdf",
     "Discrete Math/20240516.pdf",
     "Discrete Math",
-    "path/to/b tree basic graph.md",
-    "Pasted.md",
     "path/to",
     "path",
-    "如何讓一天過得有充實感.md",
-    "DSA",
-    "獲得創作的靈感來源.md",
-    "Man's searching for meaning.md",
-    "(透過選擇環境讓自己變成想成為的樣子).md",
-    "(隨著年紀增長不斷膨脹的慾望).md",
-    "珍惜一期一會.md",
-    "2024-05-23.md",
-    "最近生活遇到的一些瓶頸.md",
-    "循環式嘆息 (cyclic sighing).md",
-    "三個寫應用程式的重要步驟.md",
-    "Untitled.canvas",
-    "小說"
+    "DSA"
   ]
 }

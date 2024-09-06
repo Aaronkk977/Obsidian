@@ -1,3 +1,4 @@
+#dsa 
 ### 1. equivalence relation
 1. reflexive
 2. symmetric
